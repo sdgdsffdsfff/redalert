@@ -1,0 +1,3 @@
+com.ywpt.warn.schedule.logging.root=d:\\logs
+com.ywpt.warn.schedule.logging.level=info
+com.ywpt.warn.schedule.logging.file.encoding=gbk

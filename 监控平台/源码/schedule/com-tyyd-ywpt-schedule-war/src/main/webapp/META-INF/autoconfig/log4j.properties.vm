@@ -1,0 +1,3 @@
+com.ywpt.warn.schedule.logging.root=${com_ywpt_warn_schedule_logging_root}
+com.ywpt.warn.schedule.logging.level=${com_ywpt_warn_schedule_logging_level}
+com.ywpt.warn.schedule.logging.file.encoding=${com_ywpt_warn_schedule_logging_file_encoding}
